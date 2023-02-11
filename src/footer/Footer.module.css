@@ -2,15 +2,12 @@
     min-height: 50vh;
     background-color: yellowgreen;
     padding: 50px 0;
-
-
 }
 
 .footerContainer {
     display: flex;
     flex-direction: column;
     border: 1px solid;
-
 }
 
 .title {
