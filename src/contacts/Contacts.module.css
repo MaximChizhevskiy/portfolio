@@ -1,0 +1,44 @@
+.contacts{
+    min-height: 100vh;
+    background-color: dodgerblue;
+
+}
+
+.contactContainer {
+    flex-direction: column;
+    justify-content: space-around;
+
+
+}
+
+.title {
+    background-color: #eeeef5;
+
+}
+
+.contactForm{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid;
+    width: 275px;
+    height: 150px;
+    justify-content: space-between;
+    margin-bottom: 75px;
+    margin-top: 75px;
+}
+
+.button {
+    padding: 10px 25px;
+    background-color: grey;
+    text-decoration: none;
+    color: #f7f7f7;
+}
+
+.textarea {
+    height: 75px;
+    resize: none;
+}
+
+.input{
+    height: 25px;
+}

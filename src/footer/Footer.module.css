@@ -1,0 +1,39 @@
+.footer {
+    min-height: 50vh;
+    background-color: yellowgreen;
+    padding: 50px 0;
+
+
+}
+
+.footerContainer {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid;
+
+}
+
+.title {
+    background-color: #eeeef5;
+}
+
+.footerBlockContainer {
+    display: flex;
+    flex-direction: row;
+    width: 280px;
+    justify-content: space-between;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 1px solid;
+}
+
+.footerBlock {
+    width: 60px;
+    height: 60px;
+    border: 1px solid;
+    background-color: grey;
+}
+
+.rightsReserved {
+    background-color: #eeeef5;
+}
